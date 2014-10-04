@@ -1,0 +1,1 @@
+<script type="text/javascript" src="./colorclock.js"></script>
