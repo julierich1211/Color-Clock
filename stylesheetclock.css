@@ -4,12 +4,12 @@ body {
     width: 100%;
     background-color: radial-gradient(circle farthest-side at center, rgba(94, 255, 124, 1), rgba(215, 44, 153, 1), rgba(0, 255, 255, 1));
     animation-name: colorChange;
-    animation-duration: 1s;
+    animation-duration: .25s;
     animation-direction: alternate;
     animation-iteration-count: infinite;
     animation-timing-function: ease;
     -webkit-animation-name: colorChange;
-    -webkit-animation-duration: 1s;
+    -webkit-animation-duration: .25s;
     -webkit-animation-direction: alternate;
     -webkit-animation-iteration-count: infinite;
     -webkit-animation-timing-function: ease;
